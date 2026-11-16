@@ -1,5 +1,5 @@
 """
-Módulo: main_gui.py (Versión Definitiva e Integral)
+Módulo: main_gui.py 
 Proyecto: SICAV-Café - Cafetería y Repostería Artesanal "Cielito Lindo"
 Autor: Mario Gustavo Trujillo Chua
 Descripción: Interfaz gráfica de escritorio intuitiva y moderna para PC con
