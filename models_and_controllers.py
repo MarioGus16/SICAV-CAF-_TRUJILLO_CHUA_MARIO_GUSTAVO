@@ -4,7 +4,7 @@ Organización: Cafetería y Repostería Artesanal "Cielito Lindo"
 Autor: Mario Gustavo Trujillo Chua (Trujillo Software Solutions)
 Descripción: Implementación de las clases del dominio, métodos documentados,
              validaciones del diccionario de datos, transacciones ACID
-             en SQLite3 y motor de generación de comprobantes/reportes en PDF.
+             en SQLite3 y generación de comprobantes/reportes en PDF.
 """
 
 import os
