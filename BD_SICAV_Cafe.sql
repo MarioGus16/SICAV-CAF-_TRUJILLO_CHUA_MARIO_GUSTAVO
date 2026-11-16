@@ -1,7 +1,7 @@
 -- ============================================================================
 -- Nombre de Archivo: BD_SICAV_Cafe.sql
 -- Fecha de creación: 18/09/2026
--- Descripción: Base de datos relacional normalizada (3FN) que contiene la
+-- Descripción: Base de datos relacional que contiene la
 --              información transaccional, inventarios, recetas y control de
 --              personal de la cafetería "Cielito Lindo" (SICAV-Café).
 -- Autor: Mario Gustavo Trujillo Chua
